@@ -2,7 +2,7 @@ import os
 from llama_index import SimpleDirectoryReader, GPTSimpleVectorIndex,LLMPredictor,ServiceContext
 from langchain import OpenAI
 
-os.environ["OPENAI_API_KEY"] = 'apikey'
+os.environ["OPENAI_API_KEY"] = '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'
 
 
 
