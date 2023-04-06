@@ -3,11 +3,11 @@
 # How to use
 
 ```
-pip3 install llama-index
+pip install llama-index
 ```
 
 ```
-pip3 install --upgrade langchain
+pip install --upgrade langchain
 ```
 
 ```
